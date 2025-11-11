@@ -29,9 +29,7 @@ python TrabajoIntegrador.py
 ### 🔹 3. Opciones del menú principal
 Al iniciar el programa se mostrará el siguiente menú:
 
-====================
- GESTIÓN DE PAÍSES
-====================
+GESTIÓN DE PAÍSES
 
 1) Buscar país por nombre
 2) Filtrar por continente
