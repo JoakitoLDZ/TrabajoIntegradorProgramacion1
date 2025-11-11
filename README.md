@@ -41,6 +41,8 @@ GESTIÓN DE PAÍSES
 
 👉 Ingresá el número de la opción deseada y seguí las instrucciones en pantalla.
 
+---
+
 ## 🧩 Ejemplos de entradas y salidas
 
 ### 🔸 Ejemplo 1 – Buscar país
@@ -81,6 +83,7 @@ Europa : 45
 América : 35
 Oceanía : 14
 
+---
 
 ## 📊 Estructura de datos utilizada
 
@@ -103,6 +106,8 @@ paises = [
 
 Esta estructura facilita la búsqueda, filtrado, ordenamiento y cálculo de estadísticas.
 
+---
+
 ## 🤖 Recursos y aprendizajes aplicados
 
 ◼ Lectura y procesamiento de archivos CSV con csv.DictReader.
@@ -118,5 +123,7 @@ Esta estructura facilita la búsqueda, filtrado, ordenamiento y cálculo de esta
 ◼ Aplicación opcional del módulo unicodedata para mejorar las búsquedas ignorando tildes y mayúsculas.
 
 ◼ Uso de inteligencia artificial como apoyo.
+
+---
 
 ### 👨‍💻 Proyecto desarrollado por Joaquín Sánchez
